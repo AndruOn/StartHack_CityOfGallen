@@ -1,0 +1,11 @@
+,Dossier type,Personal household (support unit),Persons in household total,Person category,Marital status,Nationality categories,In CH since birth,Age categories,Employment situation,Degree of employment,Part-time reason,Highest completed education,Trained profession category,last job category
+0,Ausländer/innen,1,Einzelhaushalt,Alleinstehend,ledig,EU / EFTA,True,46-55,"ohne Arbeit, nicht beim Arbeitsamt gemeldet",NAN,NAN,Berufslehre/-schule,kein | keine,Berufe im Bereich personenbezogener Dienstleistungen
+1,Inländer/innen,1,Mehrfachhaushalt (2-3),Alleinstehend,ledig,Schweiz,True,26-35,"ohne Arbeit, nicht beim Arbeitsamt gemeldet",NAN,NAN,obligatorische Schule,kein | keine,Berufe im Bereich personenbezogener Dienstleistungen
+2,Inländer/innen,1,Einzelhaushalt,Alleinstehend,ledig,Schweiz,True,36-45,"ohne Arbeit, nicht beim Arbeitsamt gemeldet",NAN,NAN,Berufslehre/-schule,kein | keine,kein | keine
+3,Ausländer/innen,1,Einzelhaushalt,Alleinstehend,ledig,Restliches Europa,True,56-65,vorübergehend arbeitsunfähig,NAN,NAN,obligatorische Schule,kein | keine,NAN
+4,Ausländer/innen,1,Mehrfachhaushalt (2-3),Alleinstehend,ledig,EU / EFTA,True,36-45,vorübergehend arbeitsunfähig,NAN,NAN,obligatorische Schule,kein | keine,kein | keine
+5,Inländer/innen,1,Mehrfachhaushalt (2-3),Alleinstehend,ledig,Schweiz,True,18-25,"ohne Arbeit, beim Arbeitsamt gemeldet",NAN,NAN,obligatorische Schule,kein | keine,kein | keine
+6,Inländer/innen,1,Einzelhaushalt,Alleinstehend,geschieden,Schweiz,True,46-55,vorübergehend arbeitsunfähig,NAN,NAN,obligatorische Schule,kein | keine,Reinigungspersonal und Hilfskräfte
+7,Ausländer/innen,2,Mehrfachhaushalt (2-3),Person mit Kind / Kinder,verheiratet,Restliches Europa,True,36-45,"ohne Arbeit, nicht beim Arbeitsamt gemeldet",NAN,NAN,obligatorische Schule,kein | keine,kein | keine
+8,Inländer/innen,1,Einzelhaushalt,Alleinstehend,verheiratet,Schweiz,True,26-35,"ohne Arbeit, nicht beim Arbeitsamt gemeldet",NAN,NAN,obligatorische Schule,kein | keine,"Hilfsarbeiter im Bergbau, im Bau, bei der Herstellung von Waren und im Transportwesen"
+9,Ausländer/innen,>3,Mehrfachhaushalt (>3),Paar mit Kind / Kinder,verheiratet,Schweiz,True,36-45,"ohne Arbeit, nicht beim Arbeitsamt gemeldet",NAN,NAN,obligatorische Schule,kein | keine,NAN
