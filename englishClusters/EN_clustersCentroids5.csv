@@ -1,0 +1,6 @@
+,Dossier type,Personal household (support unit),Persons in household total,Person category,Marital status,Nationality categories,In CH since birth,Age categories,Employment situation,Degree of employment,Part-time reason,Highest completed education,Trained profession category, last job category
+0,national,1,multiple household (2-3),single,single,Switzerland,true,36-45,"unemployed, registered at the employment office",NAN,NAN,compulsory school,no | none,professions in the field of personal services
+1,foreigners,1,single household,single,unmarried,EU / EFTA,false,26-35,"no job, not registered at the employment office",NAN,NAN,compulsory school,no | none, no | no
+2, foreigners, 2, multiple households (2-3), person with children / children, married, Africa, false, 36-45, "without work, not registered at the employment office", NAN,NAN, compulsory school, no | none, no | no
+3,native,1,single household,single,single,Switzerland,True,26-35,"without work, not registered at the employment office",NAN,NAN,apprenticeship/school,sales force,sales force
+4,resident,1,single household,single,single,Switzerland,false,26-35,temporarily unable to work,NAN,NAN,compulsory school,no | none, no | no

@@ -1,0 +1,11 @@
+,Dossier type,Personal household (support unit),Persons in household total,Person category,Marital status,Nationality categories,In CH since birth,Age categories,Employment situation,Degree of employment,Part-time reason,Highest completed education,Trained profession category, last job category
+0,foreigners,2,multiple households (2-3),person with child/children,married,rest of Europe,False,46-55,"unemployed, not registered at the employment office",NAN,NAN,compulsory school,none | none, no | no
+1,native,1,single household,single,single,Switzerland,True,56-65,"without work, not registered at the employment office",NAN,NAN,apprenticeship/school,general office and secretarial staff,professions in the field personal services
+2, refugee from 5 years,> 3, multiple household (> 3), couple with child / children, married, Africa, false, 36-45, "unemployed, not registered at the employment office", NAN, NAN, compulsory school, no | none, no | no
+3,foreigners,1,single household,single,unmarried,EU / EFTA,false,26-35,"no job, not registered at the employment office",NAN,NAN,compulsory school,no | none,professions in the field of personal services
+4, nationals, 2, multiple households (2-3), person with child / children, single, Switzerland, True, 36-45, "without work, not registered at the employment office", NAN, NAN, vocational training/school, no | none,professions in the field of personal services
+5,national,1,multiple household (2-3),single,single,Switzerland,True,26-35,temporarily unable to work,NAN,NAN,compulsory school,no | none, no | no
+6,foreigners,1,single household,single,divorced,rest of Europe,false,46-55,"unemployed, not registered at the employment office",NAN,NAN,cannot be determined,no | none, no | no
+7,resident,1,single household,single,single,Switzerland,False,36-45,NAN,NAN,NAN,NAN,NAN,NAN
+8,foreigners,1,single household,single,divorced,Africa,false,36-45,"unemployed, registered at the employment office",NAN,NAN,compulsory school,no | none, food prep workers
+9,native,1,single household,single,single,Switzerland,false,26-35,"no job, not registered at the employment office",NAN,NAN,compulsory school,no | none,"Laborers in mining, construction, manufacturing goods and transportation"
