@@ -1,11 +1,11 @@
 ,Dossier type,Personal household (support unit),Persons in household total,Person category,Marital status,Nationality categories,In CH since birth,Age categories,Employment situation,Degree of employment,Part-time reason,Highest completed education,Trained profession category,last job category
-0,Ausländer/innen,2,Mehrfachhaushalt (2-3),Person mit Kind / Kinder,verheiratet,Restliches Europa,True,36-45,"ohne Arbeit, nicht beim Arbeitsamt gemeldet",NAN,NAN,obligatorische Schule,kein | keine,kein | keine
-1,Inländer/innen,2,Mehrfachhaushalt (2-3),Person mit Kind / Kinder,ledig,Schweiz,True,26-35,vorübergehend arbeitsunfähig,NAN,NAN,Berufslehre/-schule,kein | keine,Berufe im Bereich personenbezogener Dienstleistungen
-2,Ausländer/innen,1,Einzelhaushalt,Alleinstehend,ledig,Afrika,True,36-45,"ohne Arbeit, nicht beim Arbeitsamt gemeldet",NAN,NAN,obligatorische Schule,kein | keine,kein | keine
-3,Inländer/innen,1,Einzelhaushalt,Alleinstehend,geschieden,Schweiz,True,56-65,Arbeit auf Abruf,Eine Teilzeitstelle (bis 49%),keine Vollzeitstelle,obligatorische Schule,kein | keine,"Hilfsarbeitskräfte, onA"
-4,Inländer/innen,1,Einzelhaushalt,Alleinstehend,ledig,Schweiz,True,36-45,"ohne Arbeit, nicht beim Arbeitsamt gemeldet",NAN,NAN,obligatorische Schule,kein | keine,kein | keine
-5,Ausländer/innen,>3,Mehrfachhaushalt (>3),Paar mit Kind / Kinder,verheiratet,Afrika,True,36-45,"ohne Arbeit, nicht beim Arbeitsamt gemeldet",NAN,NAN,obligatorische Schule,kein | keine,kein | keine
-6,Inländer/innen,1,Einzelhaushalt,Alleinstehend,ledig,Schweiz,True,56-65,NAN,NAN,NAN,NAN,NAN,NAN
-7,Inländer/innen,1,Einzelhaushalt,Alleinstehend,ledig,Schweiz,True,26-35,"ohne Arbeit, beim Arbeitsamt gemeldet",NAN,NAN,Berufslehre/-schule,Berufe im Bereich personenbezogener Dienstleistungen,Berufe im Bereich personenbezogener Dienstleistungen
-8,Ausländer/innen,1,Einzelhaushalt,Alleinstehend,geschieden,EU / EFTA,True,56-65,"ohne Arbeit, nicht beim Arbeitsamt gemeldet",NAN,NAN,Berufslehre/-schule,kein | keine,Berufe im Bereich personenbezogener Dienstleistungen
-9,Ausländer/innen,1,Einzelhaushalt,Alleinstehend,ledig,EU / EFTA,True,56-65,vorübergehend arbeitsunfähig,NAN,NAN,obligatorische Schule,kein | keine,kein | keine
+0,Inländer/innen,1,Einzelhaushalt,Alleinstehend,ledig,Schweiz,True,46-55,Arbeit auf Abruf,Eine Teilzeitstelle (bis 49%),keine Vollzeitstelle,obligatorische Schule,kein | keine,Reinigungspersonal und Hilfskräfte
+1,Inländer/innen,1,Mehrfachhaushalt (2-3),Alleinstehend,ledig,Schweiz,True,26-35,"ohne Arbeit, beim Arbeitsamt gemeldet",NAN,NAN,Berufslehre/-schule,kein | keine,Berufe im Bereich personenbezogener Dienstleistungen
+2,Inländer/innen,1,Einzelhaushalt,Alleinstehend,ledig,Schweiz,True,46-55,vorübergehend arbeitsunfähig,NAN,NAN,obligatorische Schule,kein | keine,kein | keine
+3,Ausländer/innen,>3,Mehrfachhaushalt (>3),Paar mit Kind / Kinder,verheiratet,Restliches Europa,True,36-45,"ohne Arbeit, nicht beim Arbeitsamt gemeldet",NAN,NAN,obligatorische Schule,kein | keine,kein | keine
+4,Ausländer/innen,1,Einzelhaushalt,Alleinstehend,geschieden,EU / EFTA,True,56-65,"ohne Arbeit, nicht beim Arbeitsamt gemeldet",NAN,NAN,obligatorische Schule,kein | keine,Berufe im Bereich personenbezogener Dienstleistungen
+5,Inländer/innen,2,Mehrfachhaushalt (2-3),Person mit Kind / Kinder,geschieden,Schweiz,True,36-45,"ohne Arbeit, nicht beim Arbeitsamt gemeldet",NAN,NAN,obligatorische Schule,kein | keine,kein | keine
+6,Inländer/innen,1,Einzelhaushalt,Alleinstehend,geschieden,Schweiz,True,46-55,"ohne Arbeit, nicht beim Arbeitsamt gemeldet",NAN,NAN,Berufslehre/-schule,kein | keine,"Hilfsarbeitskräfte, onA"
+7,Inländer/innen,1,Mehrfachhaushalt (2-3),Alleinstehend,ledig,Schweiz,True,26-35,"ohne Arbeit, nicht beim Arbeitsamt gemeldet",NAN,NAN,obligatorische Schule,kein | keine,kein | keine
+8,Ausländer/innen,1,Einzelhaushalt,Alleinstehend,verheiratet,Afrika,True,26-35,"ohne Arbeit, beim Arbeitsamt gemeldet",NAN,NAN,obligatorische Schule,kein | keine,Hilfskräfte in der Nahrungsmittelzubereitung
+9,Inländer/innen,1,Einzelhaushalt,Alleinstehend,ledig,Schweiz,True,36-45,"ohne Arbeit, beim Arbeitsamt gemeldet",NAN,NAN,Berufslehre/-schule,"Bau- und Ausbaufachkräfte sowie verwandte Berufe, ausgenommen Elektriker","Bau- und Ausbaufachkräfte sowie verwandte Berufe, ausgenommen Elektriker"
